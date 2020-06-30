@@ -1,14 +1,6 @@
 class Dog
-  fido = {
- 
-  }
-  
-  snoopy = {
-    
-  }
-  
-  lassie = {
-    
-  }
+
 end
+
+fido = Dog.new
 
